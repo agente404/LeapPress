@@ -37,7 +37,7 @@
 		   - Swipe up/down -> Scroll one page forward/backward
 		   - Swipe left/right -> Previous/Next post
 		   
-		* [Circle Gestures] - Only with one finger
+		* [Circle Gestures]
 		   - Clockwise -> History forward
 		   - Counter clockwise -> History back     
 				   
