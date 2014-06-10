@@ -27,12 +27,12 @@
     along with this program.  If not, see <http://www.gnu.org/licenses/>.
 	*/
 	
-	function leapjs() {
+	function lp_leapjs() {
 		/*Función para añadir el script leap.min.js*/		
 		wp_enqueue_script( 'leapjs', plugins_url() . '/LeapPress/lib/leap/leap.min.js', false, '0.5.0');
 	}
 	
-	function insert_script() {
+	function lp_insert_script() {
 		/*Funcion para añadir el script de control de acciones y gestos LeapPress.js*/
 		
 		/* Obtenemos las URL del post/página siguiente y el anterior */		
@@ -60,7 +60,7 @@
 		wp_localize_script( 'leappress', 'navigation', $params );
 	}
 	
-	add_action( 'wp_enqueue_scripts', 'leapjs' );	
-	add_action( 'wp_footer', 'insert_script');
+	add_action( 'wp_enqueue_scripts', 'lp_leapjs' );	
+	add_action( 'wp_footer', 'lp_insert_script');
 
 ?>
