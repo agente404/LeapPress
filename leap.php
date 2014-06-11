@@ -2,14 +2,14 @@
 
 	/**
 	 * @package LeapPress
-	 * @version 0.0.1
+	 * @version 0.1
 	 */
 	/*
 	Plugin Name: LeapPress
 	Plugin URI: http://agente404.com/leap-press
 	Description: Wordpress motion controller plugin based on leap.js. Navigate between posts, scroll,...
 	Author: Oscar R.C. @AgenteNotFound
-	Version: 0.0.1
+	Version: 0.1
 	Author URI: http://agente404.com
 	License:  Copyright (C) 2014  Oscar R.C.
 
