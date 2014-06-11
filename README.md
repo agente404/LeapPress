@@ -1,24 +1,15 @@
 === LeapPress ===
 
 	Contributors: Oscar R.C. @agente404
+	Version: 0.1
 	Tags: leap motion, leap, leapmotion, gestures, gesture controlling, motion control
 	Requires at least: 3.0
 	Tested up to: 3.9.1
-	License: Copyright (C) 2014  Oscar R.C.
+    	Stable tag: trunk
+	License: GPLv3 or later
+    	License URI: <http://www.gnu.org/licenses/gpl-3.0.html>.
 
-		This program is free software: you can redistribute it and/or modify
-		it under the terms of the GNU General Public License as published by
-		the Free Software Foundation, either version 3 of the License, or
-		(at your option) any later version.
-
-		This program is distributed in the hope that it will be useful,
-		but WITHOUT ANY WARRANTY; without even the implied warranty of
-		MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-		GNU General Public License for more details.
-
-		You should have received a copy of the GNU General Public License
-		along with this program.  If not, see <http://www.gnu.org/licenses/>.
-
+LeapPress navigate through your Wordpress blog touchless thanks to Leap Motion Controller
 	
 == Description ==
 
@@ -26,7 +17,7 @@
 	Touchless interaction with your Wordpress blog!
 
 
-== Features ==
+== Frequently Asked Questions ==
 
 	Following gestures and actions are allowed:
 	
@@ -41,23 +32,25 @@
 		   - Clockwise -> History forward
 		   - Counter clockwise -> History back     
 				   
-	More gestures to come. 
+For more info visit the wiki <https://github.com/agente404/LeapPress/wiki>. More gestures to come. 
 
-	Feel free to modify the source code but, please, give credit. If you have an idea contact me at http://agente404.com/contacto/.
+Feel free to modify the source code but, please, give credit. If you have an idea contact me at http://agente404.com/contacto/.
 
 
 == Supported Hardware ==
 
-	* [Leap Motion Controller](https://www.leapmotion.com/) 
+* [Leap Motion Controller](https://www.leapmotion.com/) 
 
 
 == Installation ==
 
-	1. Upload the LeapPress folder to the '/wp-content/plugins/' directory
-	2. Activate the plugin through the 'Plugins' menu in WordPress
+1. Upload the LeapPress folder to the '/wp-content/plugins/' directory
+
+1. Activate the plugin through the 'Plugins' menu in WordPress
 
 
 == Changelog ==
 
-	Version 0.0.1:
-		-Initial release
+= Version 0.1 =
+
+* Initial release
