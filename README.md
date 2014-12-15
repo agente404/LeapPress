@@ -1,3 +1,5 @@
+NOT UPGRADED FOR NEWEST LEAP MOTION SDK SO IT IS NOT WORKING 
+
 === LeapPress ===
 
 	Contributors: Oscar R.C. @agente404
